@@ -12,10 +12,7 @@
 
 macOS Utilities
 
-[The-Project](https://github.com/R-ohit-B-isht/The-Project.git)|
-[OpenCanopy Generator](https://github.com/chris1111/OpenCanopy-Generator)|
-[Themes OpenCore](https://github.com/chris1111/My-Simple-OC-Themes)|
-[Command Line SnapShot Mounter](https://github.com/chris1111/Command-Line-SnapShot-Mounter)
+[The-Project](https://github.com/R-ohit-B-isht/The-Project.git)|[OpenCanopy Generator](https://github.com/chris1111/OpenCanopy-Generator)|[Themes OpenCore](https://github.com/chris1111/My-Simple-OC-Themes)|[Command Line SnapShot Mounter](https://github.com/chris1111/Command-Line-SnapShot-Mounter)
 -|-|-|-
 <a href="https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter"><img src="https://user-images.githubusercontent.com/6248794/140664934-ccf2af36-9070-4cf0-9386-f47d6589e992.png" width="300px"></a>|<a href="https://github.com/chris1111/OpenCanopy-Generator"><img src="https://user-images.githubusercontent.com/6248794/134259571-1106d642-2186-43ac-8ddd-f7e55f202dc2.png" width="300px"></a>|<a href="https://github.com/chris1111/My-Simple-OC-Themes"><img src="https://user-images.githubusercontent.com/6248794/134266464-e41a5347-cae6-46ed-b345-1170f4d82ecb.png" width="300px"></a>|<a href="https://github.com/chris1111/Command-Line-SnapShot-Mounter"><img src="https://user-images.githubusercontent.com/6248794/140523046-0c5728e0-a685-4d7b-9dfb-b5d4d53ef3d9.png" width="300px"></a>
 
