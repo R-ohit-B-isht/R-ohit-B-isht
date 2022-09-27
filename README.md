@@ -1,4 +1,4 @@
-### Hi there 😄 I am passionate about Development and I have several projects on which I spend time 😎 
+### Hi there 😄 I am a passionate Developer and I have several projects on which I spend time 😎 
 ### Hope to meet you 🤝 on one of my project.
 
 <!-- #### ⚙️ &nbsp;GitHub Analytics
